@@ -10,9 +10,9 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "target": "ESNext",
-    "baseUrl": "./",
+    "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["src/*"]
     },
     "strict": true
   },
